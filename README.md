@@ -15,6 +15,6 @@ ex) ./index.css -> ./index.css?ver=1.0.1
 - 2. read *.html file in current directory
 - 3. parse all html file
 - 4. find filename contain version.txt files
-  - <link ... href=* >
-  - <script ... src=* >
+  - < link ... href=* >
+  - < script ... src=* >
 - 5. change css, js filename to <filename>+<?ver=version>
